@@ -1,4 +1,4 @@
-# Book Exchange Social Network
+# Borrow ME - An Book Exchange Social Network
 
 ## I. Tổng quan
 
