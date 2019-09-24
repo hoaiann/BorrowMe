@@ -3,7 +3,7 @@
 ## I. Tổng quan
 
 **BorrowMe** là một nền tảng kết nối những người đọc sách, cho phép người dùng mượn và chia sẻ thông tin về sách. 
-### Cơ chế trao đổi sách
+##### Cơ chế trao đổi sách
 + Người có sách muốn trao đổi tại website, viết review về quyển sách
 + Nếu có người mượn sách thì bắt đầu trao đổi trực tiếp với nhau qua tin nhắn về thời gian, địa điểm, … để mượn sách.
 
