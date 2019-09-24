@@ -1,13 +1,13 @@
 # Book Exchange Social Network
 
-I. Tổng quan
+## I. Tổng quan
 
 **BorrowMe** là một nền tảng kết nối những người đọc sách, cho phép người dùng mượn và chia sẻ thông tin về sách. 
 ### Cơ chế trao đổi sách
 + Người có sách muốn trao đổi tại website, viết review về quyển sách
 + Nếu có người mượn sách thì bắt đầu trao đổi trực tiếp với nhau qua tin nhắn về thời gian, địa điểm, … để mượn sách.
 
-II. Giải quyết vấn đề
+## II. Giải quyết vấn đề
 
 Mỗi tháng mọi người đều dành một khoản từ 200.000-500.000 nghìn đồng để mua sách. Đọc lần đầu sách vẫn còn mới và đọc thì lần đầu thường kiểu cưỡi ngựa xem hoa, vẫn nên lưu lại để đọc lại ,mà số lần đọc lại cực kỳ hiếm, chưa kể có những cuốn sách mua về nhưng không đọc. Như vậy sẽ rất lãng phí.
 
@@ -15,18 +15,12 @@ Bên cạnh đó, có rất nhiều người muốn đọc sách nhưng họ kh�
 
 Chính vì thế, việc trao đổi sách sẽ giúp mọi người chia sẻ giá trị, kiến thức mà còn tiết kiệm thêm một khoản nhỏ để dành cho bạn vào những chi tiêu khác, tạo điều kiện cho tất cả mọi người đều được đọc sách.
 
-III. Mô tả chức năng 
+## III. Mô tả chức năng 
 
-**Borrow Me** bao gồm các chức năng chính sau 
+**Borrow Me** bao gồm các chức năng chính sau:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:center}
-.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:center}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:center}
-</style>
+
+
 <table class="tg">
   <tr>
     <th class="tg-7btt">STT</th>
@@ -101,13 +95,13 @@ III. Mô tả chức năng
     <td class="tg-0pky">Tìm kiếm sách, người dùng, tác giả có trên hệ thống.</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">13</td>
+    <td class="tg-c3ow">12</td>
     <td class="tg-c3ow">Cập nhật trạng thái mượn sách</td>
     <td class="tg-c3ow">User</td>
     <td class="tg-0pky">Khi có người mượn sách, người dùng có thể thay đổi trạng thái mượn. Có các trạng thái như đợi mượn, đã mượn, đã trả. </td>
   </tr>
   <tr>
-    <td class="tg-c3ow">15</td>
+    <td class="tg-c3ow">13</td>
     <td class="tg-c3ow">Thông báo</td>
     <td class="tg-c3ow">System</td>
     <td class="tg-0pky">Hệ thống sẽ thông báo cho người dùng khi có người mượn sách, đến hạn trả sách,...</td>
