@@ -4,8 +4,7 @@ npm i nodemon -g
 ```
 Install dependency
 ```
-npm install 
-cd client && npm install
+npm run setup
 ```
 Run both server and client
 ```
