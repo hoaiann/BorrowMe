@@ -108,7 +108,29 @@ Chính vì thế, việc trao đổi sách sẽ giúp mọi người chia sẻ g
   </tr>
 </table>
 
+## IV. Actor 
+Phần mềm gồm có 2 actor chính là  
 
+<table class="tg">
+  <tr>
+    <th class="tg-7btt">STT</th>
+    <th class="tg-7btt">Actor</th>
+    <th class="tg-7btt">Mô tả</th>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">1</td>
+    <td class="tg-c3ow">Guest</td>
+    <td class="tg-0pky">Người dùng khi chưa đăng nhập vào hệ thống hoặc sau khi đăng xuất khỏi hệ thống</td>
+  </tr>
+    <tr>
+    <td class="tg-c3ow">2</td>
+    <td class="tg-c3ow">User</td>
+    <td class="tg-0pky">Người dùng sau khi đã đăng nhập vào hệ thống</td>
+  </tr>
+</table>
+
+## V. Business Process 
+<img src = "./business.png" alt="Business Process">
 
 
 
