@@ -24,13 +24,17 @@ Chính vì thế, việc trao đổi sách sẽ giúp mọi người chia sẻ g
 <table class="tg">
   <tr>
     <th class="tg-7btt">STT</th>
-    <th class="tg-7btt">Chức năng</th>
+    <th class="tg-7btt">Mã chức năng</th>
+    <th class="tg-7btt">Tên chức năng</th>
+    <th class="tg-7btt">Phân loại chức năng</th>
     <th class="tg-7btt">Actor</th>
     <th class="tg-7btt">Mô tả</th>
   </tr>
   <tr>
     <td class="tg-c3ow">1</td>
+    <td class="tg-c3ow"> </td>
     <td class="tg-c3ow">Đăng ký</td>
+    <td class="tg-c3ow">Chức năng theo user</td>
     <td class="tg-c3ow">Guest</td>
     <td class="tg-0pky">Đăng ký tài khoản để đăng nhập vào hệ thống. Có thể đăng ký bằng gmail, facebook</td>
   </tr>
@@ -119,11 +123,16 @@ Phần mềm gồm có 2 actor chính là
   </tr>
   <tr>
     <td class="tg-c3ow">1</td>
+    <td class="tg-c3ow">Admin</td>
+    <td class="tg-0pky">Người tạo tài khoản, kiểm tra tài khoản, quản lí user, quản lí thư viện sách của hệ thống</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">Guest</td>
     <td class="tg-0pky">Người dùng khi chưa đăng nhập vào hệ thống hoặc sau khi đăng xuất khỏi hệ thống</td>
   </tr>
     <tr>
-    <td class="tg-c3ow">2</td>
+    <td class="tg-c3ow">3</td>
     <td class="tg-c3ow">User</td>
     <td class="tg-0pky">Người dùng sau khi đã đăng nhập vào hệ thống</td>
   </tr>
